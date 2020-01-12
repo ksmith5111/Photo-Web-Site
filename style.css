@@ -24,6 +24,13 @@ body  {
     background: url('./static/images/people/listening.jpg') no-repeat 50% 50%;
     display: table;
 }
+.home  {
+    width: 100%;
+    height: 100vh;
+    background: url('./static/images/people/listening.jpg') no-repeat 50% 50%;
+    background-size: cover;
+    display: table;
+}
 
 .content {
     position: absolute;
@@ -189,5 +196,8 @@ nav #menu li a {
           visibility: hidden !important;
     }
 }
+/*masonary css */
+.grid-item { width: 200px; }
+.grid-item--width2 { width: 400px; }
 
 
