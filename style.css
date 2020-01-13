@@ -209,5 +209,9 @@ nav #menu li a {
     white-space: nowrap;
     letter-spacing: 4px;
 }
+#page-title{
+    letter-spacing: 10px;
+    text-align: center;
+}
 
 
