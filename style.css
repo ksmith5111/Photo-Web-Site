@@ -197,7 +197,9 @@ nav #menu li a {
     }
 }
 
-navbar{
-    color: #000000;
+a.nav-item.active {
+    color: black;
 }
-
+a.nav-item {
+    color: rgb(49, 47, 47);
+}
