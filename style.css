@@ -197,9 +197,9 @@ nav #menu li a {
     }
 }
 
-.nav-item nav-link :active {
-color: #020303;
+a.nav-item.nav-link.active {
+    color: black;
 }
-nav-item nav-link{
-    color: #595A5D
+a.nav-item.nav-link {
+    color:#595A5D;
 }
