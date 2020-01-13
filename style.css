@@ -197,9 +197,3 @@ nav #menu li a {
     }
 }
 
-a.nav-item.nav-link.active {
-    color: black;
-}
-a.nav-item.nav-link {
-    color:#595A5D;
-}
