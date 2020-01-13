@@ -200,9 +200,7 @@ nav #menu li a {
     color: #000000;
     background-color: transparent;
 }
-.navbar{
-    color: #000000;
-}
+
 a.nav-item.active {
     color: black;
 }
