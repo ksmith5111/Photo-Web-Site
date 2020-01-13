@@ -197,6 +197,9 @@ nav #menu li a {
     }
 }
 
+navbar{
+    color: #000000;
+}
 a.nav-item.active {
     color: black;
 }
