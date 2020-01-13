@@ -196,8 +196,10 @@ nav #menu li a {
           visibility: hidden !important;
     }
 }
-/*masonary css */
-.grid-item { width: 200px; }
-.grid-item--width2 { width: 400px; }
 
-
+.nav-item nav-link :active {
+color: #020303;
+}
+nav-item nav-link{
+    color: #595A5D
+}
