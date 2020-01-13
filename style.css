@@ -204,7 +204,7 @@ nav #menu li a {
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
-    color: ##000000;
+    color: #000000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -214,7 +214,7 @@ nav #menu li a {
   /* Change the color of links on hover */
   .topnav a:hover {
     background-color: transparent;
-    color #5A595D;
+    color: #5A595D;
   }
   
   /* Add a color to the active/current link */
