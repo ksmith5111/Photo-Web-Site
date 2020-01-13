@@ -196,8 +196,11 @@ nav #menu li a {
           visibility: hidden !important;
     }
 }
-
-navbar{
+#page-nav{
+    color: #000000;
+    background-color: transparent;
+}
+.navbar{
     color: #000000;
 }
 a.nav-item.active {
@@ -206,3 +209,4 @@ a.nav-item.active {
 a.nav-item {
     color: rgb(49, 47, 47);
 }
+
