@@ -195,5 +195,9 @@ nav #menu li a {
           visibility: hidden !important;
     }
 }
+/*Navbar background*/
+.bg-light {
+    background-color: transparent!important;
+}
 
 
