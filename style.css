@@ -200,17 +200,22 @@ nav #menu li a {
 .bg-light {
     background-color: transparent!important;
 }
+.navbar-nav .nav-link {
+    margin-right: 25px;
+    margin-left: 25px;
+}
 .navbar-brand {
     display: inline-block;
     padding-top: 0.3125rem;
     padding-bottom: .3125rem;
-    margin-right: 1rem;
+    margin-right: 25px;
+    margin-left: 25px;
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
     letter-spacing: 4px;
 }
-.page-title{
+page-title{
         font-family: sans-serif;
         font-size: 6.5em;
         letter-spacing: 13px;
