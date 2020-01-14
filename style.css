@@ -215,9 +215,8 @@ nav #menu li a {
     white-space: nowrap;
     letter-spacing: 4px;
 }
-h1.page-title{
-    color: red;
-    font-weight: 200;
-    font-size: 5.5rem;
+.h1, h1 {
     letter-spacing: 12px;
+    font-size: 4.5rem;
+    font-weight: 200;
 }
