@@ -211,9 +211,9 @@ nav #menu li a {
     letter-spacing: 4px;
 }
 #page-title{
-    letter-spacing: 10px;
-    text-align: center;
-    font-size: larger;
-}
-
-
+        font-family: sans-serif;
+        font-size: 6.5em;
+        letter-spacing: 13px;
+        text-align: center;
+        font-weight: 200;
+    }
