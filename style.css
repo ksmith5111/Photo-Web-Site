@@ -7,7 +7,12 @@
     --white:    #EDEFEE;
     --radius:   12px;
 }
-
+.title h1 {
+         letter-spacing: 12px;
+        font-size: 4.5rem;
+        font-weight: 200;
+    }
+}
 /* Fade Up Nav */
 * {
     margin: 0;
@@ -214,9 +219,4 @@ nav #menu li a {
     line-height: inherit;
     white-space: nowrap;
     letter-spacing: 4px;
-}
-.h1, h1 {
-    letter-spacing: 12px;
-    font-size: 4.5rem;
-    font-weight: 200;
 }
