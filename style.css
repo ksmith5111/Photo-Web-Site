@@ -7,11 +7,12 @@
     --white:    #EDEFEE;
     --radius:   12px;
 }
-header {
-    font-size: larger22px;
-    font-weight: 200;   
-    letter-spacing: 5px;
-}
+.title {
+        color: red;
+        letter-spacing: 12px;
+        font-size: 4.5rem;
+        font-weight: 200;
+    }
 /* Fade Up Nav */
 * {
     margin: 0;
