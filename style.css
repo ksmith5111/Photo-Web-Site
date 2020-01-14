@@ -7,7 +7,7 @@
     --white:    #EDEFEE;
     --radius:   12px;
 }
-.title {
+h1.title {
         color: red;
         letter-spacing: 12px;
         font-size: 4.5rem;
