@@ -8,14 +8,10 @@
     --radius:   12px;
 }
 h1.title {
-        color: red;
         letter-spacing: 12px;
         font-size: 4.5rem;
         font-weight: 200;
-    }
-    .h1, h1 {
-        font-weight: 200;
-        font-size: 4.5rem;
+        letter-spacing: 14px;  
     }
 /* Fade Up Nav */
 * {
