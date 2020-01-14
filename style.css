@@ -223,6 +223,7 @@ page-title{
         font-weight: 200;
     }
 h1.page-title{
+    color: red;
     font-weight: 200;
     font-size: 5.5rem;
     letter-spacing: 12px;
