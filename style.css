@@ -14,6 +14,13 @@ h1.title {
         font-weight: 200;
         letter-spacing: 14px;  
     }
+    h4.SUBtitle {
+        color: #000000;
+        letter-spacing: 12px;
+        font-size: 1.75;
+        font-weight: 100;
+        letter-spacing: 22px;  
+    }
 /* Fade Up Nav */
 * {
     margin: 0;
