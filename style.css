@@ -8,6 +8,7 @@
     --radius:   12px;
 }
 h1.title {
+        color: #000000;
         letter-spacing: 12px;
         font-size: 4.5rem;
         font-weight: 200;
