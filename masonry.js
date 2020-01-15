@@ -10,6 +10,4 @@ $grid.imagesLoaded().progress( function() {
   $grid.masonry();
 });
 
-$('.carousel').carousel ({
-    Interval:2000
-})
+
