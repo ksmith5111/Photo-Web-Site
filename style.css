@@ -26,18 +26,20 @@ h4.subtitle {
     font-weight: 200;
     letter-spacing: 12px;
 } 
-
-A:link {
+a {
+    color:black;
+}
+a:link {
      COLOR: black; 
     }
-A:visited {
+a:visited {
      COLOR: black; TEXT-DECORATION: none; 
      
      }
-A:active {
+a:active {
      COLOR: black; TEXT-DECORATION: none 
     }
-A:hover { 
+a:hover { 
     COLOR: #000; TEXT-DECORATION: underline; 
     
 }
