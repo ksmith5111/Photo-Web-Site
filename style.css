@@ -27,8 +27,19 @@ h4.subtitle {
     letter-spacing: 12px;
 } 
 
-a :hover.subnav{
-    color: #000;
+A:link {
+     COLOR: black; 
+    }
+A:visited {
+     COLOR: black; TEXT-DECORATION: none; 
+     
+     }
+A:active {
+     COLOR: black; TEXT-DECORATION: none 
+    }
+A:hover { 
+    COLOR: #000; TEXT-DECORATION: underline; 
+    
 }
     
 /* Fade Up Nav */
