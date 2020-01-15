@@ -39,7 +39,7 @@ a:active {
     }
 a:hover { 
     color: var(--black);
-    text-decoration: underline; 
+    text-decoration: none; 
     
 }
     
