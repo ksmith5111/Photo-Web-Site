@@ -33,14 +33,14 @@ a:link {
      COLOR: black; 
     }
 a:visited {
-     COLOR: black; TEXT-DECORATION: none; 
-     
+    color: black; TEXT-DECORATION: none; 
+    
      }
 a:active {
-     COLOR: black; TEXT-DECORATION: none 
+    color: black; TEXT-DECORATION: none 
     }
 a:hover { 
-    COLOR: #000; TEXT-DECORATION: underline; 
+    color: black; TEXT-DECORATION: underline; 
     
 }
     
