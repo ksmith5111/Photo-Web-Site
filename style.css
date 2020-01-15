@@ -26,12 +26,7 @@ h4.subtitle {
     font-weight: 200;
     letter-spacing: 12px;
 } 
-a {
-    color: var(--black);
-    text-decoration: none;
-    background-color: transparent;
-    -webkit-text-decoration-skip: objects;
-}
+
 a:link {
     color: var(--black);
     }
