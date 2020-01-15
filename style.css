@@ -7,12 +7,6 @@
     --white:    #EDEFEE;
     --radius:   12px;
 }
-a {
-    color: var(--black);
-    text-decoration: none;
-    background-color: transparent;
-    -webkit-text-decoration-skip: objects;
-}
 h1.title {
         color: #000000;
         letter-spacing: 12px;
@@ -38,7 +32,22 @@ a {
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
 }
-   
+a:link {
+    color: var(--black);
+    }
+a:visited {
+    color: var(--black); text-decoration: none; 
+    
+     }
+a:active {
+    color: black; text-decoration: none;
+    }
+a:hover { 
+    color: var(--black);
+    text-decoration: underline; 
+    
+}
+    
 /* Fade Up Nav */
 * {
     margin: 0;
