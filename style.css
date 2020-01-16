@@ -7,28 +7,12 @@
     --white:    #EDEFEE;
     --radius:   12px;
 }
-h1.index-title {
-    color: #f9f9f9;
-    letter-spacing: 12px;
-    font-size:6.2rem;
-    font-weight: 200;
-    letter-spacing: 14px;  
-}
-h1.index-title {
-    color: #f9f9f9;
-    letter-spacing: 12px;
-    font-size: 6.2rem;
-    font-weight: 200;
-    letter-spacing: 14px;
-    font-size: 2.7rem;
-}
-    h4.index-subtitle {
-        color: #f9f9f9;
+h1.title {
+        color: #000000;
         letter-spacing: 12px;
-        font-size: 22.75px;
-        font-weight: 100;
-        letter-spacing: 12px;
-        text-align: center;
+        font-size: 4.5rem;
+        font-weight: 200;
+        letter-spacing: 14px;  
     }
 h4.subtitle {
         color: #000000;
@@ -43,21 +27,7 @@ h4.subtitle {
     letter-spacing: 12px;
 } 
 
-a:link {
-    color: var(--black);
-    }
-a:visited {
-    color: var(--black); text-decoration: none; 
-    
-     }
-a:active {
-    color: black; text-decoration: none;
-    }
 
-a:hover { 
-    color:#000;
-    text-decoration: none;  
-}
     
 /* Fade Up Nav */
 * {
@@ -86,12 +56,6 @@ body  {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
-
-}.content-home {
-    position: absolute;
-    top: 75%;
-    left: 75%;
     transform: translate(-50%, -50%);
 }
 
@@ -252,12 +216,6 @@ nav #menu li a {
           visibility: hidden !important;
     }
 }
-@media (min-width: 1200px){
-    .container, .container-lg, .container-md, .container-sm, .container-xl {
-        max-width: 1140px;
-        padding-top: 15px;
-    }
-    }
 /*Navbar background*/
 .bg-light {
     background-color: transparent!important;
@@ -331,5 +289,4 @@ nav #menu li a {
 .grid-item img {
   display: block;
   max-width: 100%;
-  padding: 1px;
 }
