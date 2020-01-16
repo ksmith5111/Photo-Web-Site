@@ -291,7 +291,7 @@ nav #menu li a {
 .content-home{
 position: absolute;
 top: 75%;
-left: 75%;
+left: 55%;
 transform: translate(-50%, -50%);
 }
 
