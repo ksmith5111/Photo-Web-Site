@@ -26,9 +26,7 @@ h4.subtitle {
     font-weight: 200;
     letter-spacing: 12px;
 } 
-
-
-    
+   
 /* Fade Up Nav */
 * {
     margin: 0;
@@ -290,3 +288,19 @@ nav #menu li a {
   display: block;
   max-width: 100%;
 }
+h1.index-title {
+    color: #f9f9f9;
+    letter-spacing: 12px;
+    font-size: 6.2rem;
+    font-weight: 200;
+    letter-spacing: 14px;
+    font-size: 2.7rem;
+}
+ h4.index-subtitle {
+        color: #f9f9f9;
+        letter-spacing: 12px;
+        font-size: 22.75px;
+        font-weight: 100;
+        letter-spacing: 12px;
+        text-align: center;
+    }
