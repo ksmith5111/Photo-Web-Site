@@ -228,6 +228,13 @@ nav #menu {
     margin-top: 6px;
 }
 }
+@media (min-width: 768px){
+    nav #menu {
+        float: left;
+        left: 20%;
+        position: relative;
+    }
+}
 
 @media(min-width: 768px) {
     #resize {
