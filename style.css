@@ -22,9 +22,13 @@ h4.subtitle {
         letter-spacing: 22px;  
     }
 
-a.subtitle {
-    color: black;
-}    
+a {
+    color: #000;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    } 
+     
 .subnav{
     font-size: 22px;
     font-weight: 200;
