@@ -221,6 +221,13 @@ nav #menu {
     display: inline;
 }
 }
+@media (min-width: 768px){
+#toggle {
+    visibility: hidden;
+    opacity: 1;
+    margin-top: 6px;
+}
+}
 
 @media(min-width: 768px) {
     #resize {
