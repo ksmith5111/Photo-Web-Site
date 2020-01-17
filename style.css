@@ -228,7 +228,7 @@ nav #menu {
     margin-top: 6px;
     }
 }
-@media (min-width: 768px) and (max-width: 1199px){
+@media (min-width: 768px) and (max-width: 1024px){
     nav #menu {
         float: left;
         left: 21%;
@@ -316,7 +316,9 @@ nav #menu {
 .grid-item img {
   display: block;
   max-width: 100%;
-}
+  padding-top: 1px;
+  padding-right: 1px;
+  }
 .content-home{
 position: absolute;
 top: 75%;
