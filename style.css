@@ -28,7 +28,7 @@ a {
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
     } 
-     
+
 .subnav{
     font-size: 22px;
     font-weight: 200;
@@ -279,12 +279,14 @@ nav #menu li a {
   .grid-sizer,
   .grid-item {
     width: 25%;
+    padding-top: 10px;
   }
 }
 @media (min-width: 1200px) {
   .grid-sizer,
   .grid-item {
     width: 20%;
+    padding-top: 10px;
   }
 } 
 
