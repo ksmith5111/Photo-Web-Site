@@ -219,7 +219,7 @@ nav #menu li a {
 
 @media(min-width: 768px) {
     #resize {
-          visibility: visible !important;
+          visibility: hidden !important;
     }
 }
 /*Navbar background*/
