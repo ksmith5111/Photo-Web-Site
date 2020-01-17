@@ -226,12 +226,12 @@ nav #menu {
     visibility: hidden;
     opacity: 1;
     margin-top: 6px;
+    }
 }
-}
-@media (min-width: 768px){
+@media (min-width: 768px) and (max-width: 1199px){
     nav #menu {
         float: left;
-        left: 20%;
+        left: 21%;
         position: relative;
     }
 }
