@@ -367,3 +367,7 @@ h1.index-title {
       .carousel {
           padding-top: 15px;
       }
+      supersub-nav {
+        letter-spacing: .3em;
+        font-weight: 200;
+    }
