@@ -334,6 +334,10 @@ h1.index-title {
     font-size: 2.7rem;
     text-align: center;
 }
+.subnav a:link {
+    color: black;
+}
+
  h4.index-subtitle {
         color: #f9f9f9;
         letter-spacing: 12px;
