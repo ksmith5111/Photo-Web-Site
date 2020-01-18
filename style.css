@@ -361,3 +361,9 @@ h1.index-title {
         background-color: transparent;
         text-decoration: underline;
       }
+
+      /*Carousel Slide*/
+
+      .carousel slide{
+          padding-top: 15px;
+      }
