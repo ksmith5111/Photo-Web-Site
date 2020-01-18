@@ -324,7 +324,7 @@ top: 75%;
 left: 55%;
 transform: translate(-50%, -50%);
 }
-
+/* SUB PAGE NAVIGATION */
 h1.index-title {
     color: #f9f9f9;
     letter-spacing: 12px;
@@ -349,17 +349,17 @@ h1.index-title {
         text-decoration: none;
       }
       a:visited {
-        color: pink;
+        color: black;
         background-color: transparent;
         text-decoration: none;
       }
       a:hover {
-        color: red;
+        color: black;
         background-color: transparent;
         text-decoration: underline;
       }
       a:active {
-        color: yellow;
+        color: black;
         background-color: transparent;
         text-decoration: underline;
       }
