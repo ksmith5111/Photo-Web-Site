@@ -354,7 +354,7 @@ h1.index-title {
       a:hover {
         color: black;
         background-color: transparent;
-        text-decoration: underline;
+        text-decoration: none;
       }
       a:active {
         color: black;
