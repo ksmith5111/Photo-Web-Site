@@ -372,20 +372,7 @@ h1.index-title {
         letter-spacing: .3em;
         font-weight: 200;
     }
-    a:nth-of-type(2n) {
-        margin-right: 0;
-      }
-      
-      @media screen and (min-width: 50em) {
-        a {
-          width: calc(25% - 6px);
-        }
-      
-        a:nth-of-type(2n) {
-          margin-right: 8px;
-        }
-      
-        a:nth-of-type(4n) {
-          margin-right: 0;
-        }
-      }
+    .box-img {
+        padding: 8px; 
+        width: inherit;
+    }
