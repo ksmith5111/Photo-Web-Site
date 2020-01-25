@@ -283,13 +283,6 @@ nav #menu {
     margin-right: 5px;
     flex: 1 1 200px;
   }
-  
-  /* If Grid is supported, remove the margin we set for the fallback */
-  @supports (display: grid) {
-    .module {
-      margin: 0;
-    }
-  }
 /* Within style tags in your html file 
 * { box-sizing: border-box; }
 
