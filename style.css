@@ -376,3 +376,15 @@ h1.index-title {
         padding-top: 24px; 
         width: inherit;
     }
+@media only screen and (min-width: 480px)
+{.gallery .box {
+    width: 33.3%;
+    padding-bottom: 33.3%;
+}
+}
+@media only screen and (min-width: 365px){
+.gallery .box {
+    width: 50%;
+    padding-bottom: 50%;
+}
+}
