@@ -307,11 +307,9 @@ nav #menu {
     padding-top: 10px;
   }
 } 
-
 .grid-item {
   float: left;
 }
-
 .grid-item img {
   display: block;
   max-width: 100%;
@@ -372,19 +370,8 @@ h1.index-title {
         letter-spacing: .3em;
         font-weight: 200;
     }
+      /*
     .box-img {
         padding-top: 24px; 
         width: inherit;
     }
-@media only screen and (min-width: 480px)
-{.gallery .box {
-    width: 33.3%;
-    padding-bottom: 33.3%;
-}
-}
-@media only screen and (min-width: 365px){
-.gallery .box {
-    width: 50%;
-    padding-bottom: 50%;
-}
-}
