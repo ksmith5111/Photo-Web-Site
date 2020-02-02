@@ -372,22 +372,10 @@ h1.index-title {
         letter-spacing: .3em;
         font-weight: 200;
     }
-         /*.box-img {
+    .box-img {
         padding-top: 24px; 
-            /*width: inherit; */
-            
-.gallery {
-    overflow: hidden;
-    margin: 10px;
-    /* max-width: 768px; */
-         }    
-.gallery .box {
-    float: left;
-    position: relative;
-    width: 100%;
-    padding-bottom: 100%;
+        width: inherit;
     }
-
 @media only screen and (min-width: 480px)
 {.gallery .box {
     width: 33.3%;
