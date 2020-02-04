@@ -331,6 +331,7 @@ h1.index-title {
     font-size: 2.7rem;
     text-align: center;
 }
+
  h4.index-subtitle {
         color: #f9f9f9;
         letter-spacing: 12px;
@@ -339,22 +340,22 @@ h1.index-title {
         letter-spacing: 12px;
         text-align: center;
     }
-a:link {
+    a:link {
         color: black;
         background-color: transparent;
         text-decoration: none;
       }
-a:visited {
+      a:visited {
         color: black;
         background-color: transparent;
         text-decoration: none;
       }
-a:hover {
+      a:hover {
         color: black;
         background-color: transparent;
         text-decoration: none;
       }
-a:active {
+      a:active {
         color: black;
         background-color: transparent;
         text-decoration: none;
@@ -366,66 +367,12 @@ a:active {
     padding-top: 15px;
       }
 .thumbnail {
-    letter-spacing: .3em;
-    font-weight: 200;
+        letter-spacing: .3em;
+        font-weight: 200;
     }
-    .img-thumbnail {
-        padding: .25rem;
-        background-color: #fff;
-        border: none;
-        max-width: 100%;
-        height: auto;
-    }
-
-    @media only screen and (min-width: 365px){\}
-    .gallery .box {
-        width: 50%;
-        padding-bottom: 50%;
-    }
-}
-    .gallery .box {
-        float: left;
-        position: relative;
-        width: 100%;
-        padding-bottom: 100%;
-    }
-@media only screen and (min-width: 480px){
-.gallery .box {
-    width: 33.3%;
-    padding-bottom: 33.3%;
-}
-    }
-@media only screen and (min-width: 365px) {
-.gallery .box {
-    width: 50%;
-    padding-bottom: 50%;
-}
-}
-.gallery .box {
-    float: left;
+    .col-sm{
     position: relative;
-    width: 100%;
-    padding-bottom: 100%;
-}
-.gallery .img {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    background-size: cover;
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-}
-@media only screen and (min-width: 365px) {
-    .img-thumbnail  {
-        max-width:45%;
-        padding-bottom: 50%;
-    }
-}
-@media only screen and (min-width: 480px) {
-    .img-thumbnail  {
-        max-width:33%;
-        padding-bottom: 50%;
-    }
+    width: 45%;
+    padding-right: 15px;
+    padding-left: 15px;
 }
