@@ -366,13 +366,9 @@ h1.index-title {
 .carousel {
     padding-top: 15px;
       }
+      
 .thumbnail {
         letter-spacing: .3em;
         font-weight: 200;
     }
-    .col-sm{
-    position: relative;
-    width: 45%;
-    padding-right: 15px;
-    padding-left: 15px;
-}
+
