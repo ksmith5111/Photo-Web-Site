@@ -417,3 +417,15 @@ a:active {
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
+@media only screen and (min-width: 365px) {
+    .img-thumbnail  {
+        max-width:45%;
+        padding-bottom: 50%;
+    }
+}
+@media only screen and (min-width: 480px) {
+    .img-thumbnail  {
+        max-width:33%;
+        padding-bottom: 50%;
+    }
+}
