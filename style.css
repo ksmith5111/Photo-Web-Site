@@ -331,7 +331,6 @@ h1.index-title {
     font-size: 2.7rem;
     text-align: center;
 }
-
  h4.index-subtitle {
         color: #f9f9f9;
         letter-spacing: 12px;
@@ -340,22 +339,22 @@ h1.index-title {
         letter-spacing: 12px;
         text-align: center;
     }
-    a:link {
+a:link {
         color: black;
         background-color: transparent;
         text-decoration: none;
       }
-      a:visited {
+a:visited {
         color: black;
         background-color: transparent;
         text-decoration: none;
       }
-      a:hover {
+a:hover {
         color: black;
         background-color: transparent;
         text-decoration: none;
       }
-      a:active {
+a:active {
         color: black;
         background-color: transparent;
         text-decoration: none;
@@ -363,15 +362,16 @@ h1.index-title {
 
       /*Carousel Slide*/
 
-      .carousel {
-          padding-top: 15px;
+.carousel {
+    padding-top: 15px;
       }
-      .thumbnail {
-        letter-spacing: .3em;
-        font-weight: 200;
+.thumbnail {
+    letter-spacing: .3em;
+    font-weight: 200;
     }
-      /*
-    .box-img {
-        padding-top: 24px; 
-        width: inherit;
-    }
+.col-sm{
+    position: relative;
+    width: 45%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
