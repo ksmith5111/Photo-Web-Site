@@ -372,9 +372,9 @@ h1.index-title {
         font-weight: 200;
     }
 .bottom-centered {
-    color: #ffffff;
+  color: #ffffff;
   position: absolute;
-  top: 80%;
+  top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
