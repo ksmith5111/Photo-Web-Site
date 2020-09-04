@@ -371,7 +371,7 @@ h1.index-title {
         letter-spacing: .3em;
         font-weight: 200;
     }
-    bottom-centered {
+.bottom-centered {
         color: #ffffff;
         position: absolute;
         top: 90%;
