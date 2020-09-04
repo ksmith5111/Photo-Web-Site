@@ -371,6 +371,12 @@ h1.index-title {
         letter-spacing: .3em;
         font-weight: 200;
     }
+    .img-thumbnail {
+        padding: .25rem;
+        background-color: #fff;
+        max-width: 60%;
+        height: auto;
+    }
 .bottom-centered {
         color: #ffffff;
         position: absolute;
