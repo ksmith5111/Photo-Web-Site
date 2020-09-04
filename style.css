@@ -371,11 +371,11 @@ h1.index-title {
         letter-spacing: .3em;
         font-weight: 200;
     }
-.bottom-centered {
-  color: #ffffff;
-  position: absolute;
-  top: 90%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+    bottom-centered {
+        color: #ffffff;
+        position: absolute;
+        top: 90%;
+        left: 25%;
+        transform: translate(-50%, -50%);
+    }
 
